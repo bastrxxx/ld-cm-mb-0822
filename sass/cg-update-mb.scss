@@ -148,6 +148,7 @@ body.bdmb{background: url(../images/bg-tc.jpg) no-repeat fixed top center;backgr
         .nav-link.active{background-color: transparent;color: #892016;border: none;}
       }
       h5{color: #fff;}
+      .luuy{color: #ff0000;}
       .tab-content{height: 100%;
         .tab-pane{overflow-y: auto;
           p{font-size:calc(23px * var(--ratio));font-weight: 400;}
@@ -179,6 +180,7 @@ body.bdmb{background: url(../images/bg-tc.jpg) no-repeat fixed top center;backgr
         .tab-pane{overflow-y: scroll;height:60vh;
           h5{color: #fff;}
           table, p{font-size: 1.1rem;}
+          .luuy{color: #ff0000;}
         }
       }
     }

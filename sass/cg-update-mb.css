@@ -736,6 +736,10 @@ body.bdmb {
   color: #fff;
 }
 
+.maincontent .content-main .fullcontent .luuy {
+  color: #ff0000;
+}
+
 .maincontent .content-main .fullcontent .tab-content {
   height: 100%;
 }
@@ -825,6 +829,10 @@ body.bdmb {
 
 .modal-dialog .modal-content .modal-body .tab-content .tab-pane table, .modal-dialog .modal-content .modal-body .tab-content .tab-pane p {
   font-size: 1.1rem;
+}
+
+.modal-dialog .modal-content .modal-body .tab-content .tab-pane .luuy {
+  color: #ff0000;
 }
 
 @media (max-width: 1024px) {
