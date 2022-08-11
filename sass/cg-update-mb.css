@@ -732,6 +732,10 @@ body.bdmb {
   border: none;
 }
 
+.maincontent .content-main .fullcontent h5 {
+  color: #fff;
+}
+
 .maincontent .content-main .fullcontent .tab-content {
   height: 100%;
 }
@@ -813,6 +817,10 @@ body.bdmb {
 .modal-dialog .modal-content .modal-body .tab-content .tab-pane {
   overflow-y: scroll;
   height: 60vh;
+}
+
+.modal-dialog .modal-content .modal-body .tab-content .tab-pane h5 {
+  color: #fff;
 }
 
 .modal-dialog .modal-content .modal-body .tab-content .tab-pane table, .modal-dialog .modal-content .modal-body .tab-content .tab-pane p {
