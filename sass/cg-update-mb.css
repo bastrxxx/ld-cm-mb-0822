@@ -736,6 +736,14 @@ body.bdmb {
   color: #fff;
 }
 
+.maincontent .content-main .fullcontent ol {
+  list-style: square;
+}
+
+.maincontent .content-main .fullcontent ol li {
+  font-size: calc(23px * var(--ratio));
+}
+
 .maincontent .content-main .fullcontent .luuy {
   color: #ff0000;
 }
@@ -751,6 +759,10 @@ body.bdmb {
 .maincontent .content-main .fullcontent .tab-content .tab-pane p {
   font-size: calc(23px * var(--ratio));
   font-weight: 400;
+}
+
+.maincontent .content-main .fullcontent .tab-content .tab-pane ol {
+  list-style: square;
 }
 
 .maincontent .content-main .fullcontent .tab-content .tab-pane ol li {
@@ -821,6 +833,14 @@ body.bdmb {
 .modal-dialog .modal-content .modal-body .tab-content .tab-pane {
   overflow-y: scroll;
   height: 60vh;
+}
+
+.modal-dialog .modal-content .modal-body .tab-content .tab-pane ol {
+  list-style: square;
+}
+
+.modal-dialog .modal-content .modal-body .tab-content .tab-pane ol li {
+  font-size: calc(23px * var(--ratio));
 }
 
 .modal-dialog .modal-content .modal-body .tab-content .tab-pane h5 {
